@@ -1,0 +1,2 @@
+for training master txt
+실습을 위한 master.txt파일 생성
