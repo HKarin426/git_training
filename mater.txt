@@ -1,2 +1,5 @@
 for training master txt
 실습을 위한 master.txt파일 생성
+
+pull을 위한 파일 수정
+git pull origin master
